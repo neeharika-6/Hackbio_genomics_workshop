@@ -29,10 +29,15 @@ Downloads some (>2) sample datasets from here: https://github.com/josoga2/yt-dat
 Implement the three software on the downloaded files (sample datasets) and send all outputs to the output folder.
 
 **NOTE**
-To execute the script (.sh) in your terminal you can use the bash or ./sh command
+To execute the script (.sh) in your terminal 
+
+you can use the bash or ./sh command
+
 bash stage_zero_task.sh
 or
+
 chmod +x stage_zero_task.sh
+
 ./stage_zero_task.sh
 
 
